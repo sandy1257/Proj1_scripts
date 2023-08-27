@@ -2,3 +2,6 @@ veg items
 pulav
 raitha
 veg pakodi
+kheer 
+jamoon
+fruits salad ice cream
